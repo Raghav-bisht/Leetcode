@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Raghav-bisht/Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Raghav-bisht/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Raghav-bisht/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Raghav-bisht/Leetcode/tree/master/0035-search-insert-position) |
 | [0441-arranging-coins](https://github.com/Raghav-bisht/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Raghav-bisht/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Raghav-bisht/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
