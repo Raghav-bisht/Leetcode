@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Raghav-bisht/Leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Raghav-bisht/Leetcode/tree/master/0054-spiral-matrix) |
 | [0704-binary-search](https://github.com/Raghav-bisht/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raghav-bisht/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Raghav-bisht/Leetcode/tree/master/0125-valid-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Raghav-bisht/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Raghav-bisht/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
