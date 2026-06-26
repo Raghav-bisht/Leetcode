@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raghav-bisht/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Raghav-bisht/Leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Raghav-bisht/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Raghav-bisht/Leetcode/tree/master/0066-plus-one) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raghav-bisht/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Raghav-bisht/Leetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Raghav-bisht/Leetcode/tree/master/0242-valid-anagram) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Raghav-bisht/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
