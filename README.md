@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Raghav-bisht/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Raghav-bisht/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/Raghav-bisht/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Raghav-bisht/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raghav-bisht/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghav-bisht/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Raghav-bisht/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Raghav-bisht/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
