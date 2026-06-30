@@ -6,9 +6,9 @@ public:
         string ans = "";
 
         while (ss >> word) {
-            if (ans!="")
+            if (ans!=""){
                 ans = " " + ans;
-
+            }
             ans = word + ans;
         }
 
